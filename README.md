@@ -2,3 +2,5 @@
   loading: [Read\_sdss.ipynb](Read_sdss.ipynb)
 - **Gaia** (thanks to *Hideki Tanimura*)  
   loading: [Read\_gaia.ipynb](Read_gaia.ipynb)
+- **HSC Y1 convergence maps and summary statistics** (thanks to *Joaquin Armijo*)  
+  loading: [HSC\_NG\_ConvergenceMaps.ipynb](HSC_NG_ConvergenceMaps.ipynb)
