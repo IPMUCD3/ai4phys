@@ -4,5 +4,7 @@
   loading: [Read\_gaia.ipynb](Read_gaia.ipynb)
 - **HSC Y1 convergence maps and summary statistics** (thanks to *Joaquin Armijo*)  
   loading: [HSC\_NG\_ConvergenceMaps.ipynb](HSC_NG_ConvergenceMaps.ipynb)
-- **JWST COSMOS web galaxy cutouts** (thanks to *Xuheng Ding*)
+- **JWST COSMOS web galaxy cutouts** (thanks to *Xuheng Ding*)  
   loading: [read\_data\_jwst\_cosmos\_web.py](read_data_jwst_cosmos_web.py)
+- **HSC images** (thanks to *Chris Nagele*)  
+  loading: [QSO\_SFG\_example.py](QSO_SFG_example.py)
