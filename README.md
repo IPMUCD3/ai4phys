@@ -8,3 +8,5 @@
   loading: [read\_data\_jwst\_cosmos\_web.py](read_data_jwst_cosmos_web.py)
 - **HSC images** (thanks to *Chris Nagele*)  
   loading: [QSO\_SFG\_example.py](QSO_SFG_example.py)
+- **SIMBIG galaxy catalogs** (thanks to *Bruno Regaldo*)
+  loading: [simbig\_code](simbig_code)
