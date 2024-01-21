@@ -72,7 +72,7 @@ The way I figured out how to do this is as follows (there might be a better meth
    [Villaescusa-Navarro et al 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...61V/abstract)  
    loading: [read\_camels.py](read_camels.py)  
    data: ``CAMELS_multifield``
-8. **Effective training and upscaling LLMs** (thanks to *Chanjun Park*)
+8. **Effective training and upscaling LLMs** (thanks to *Chanjun Park*)  
    This is a special topic run by Chanjun Park.
 
 
