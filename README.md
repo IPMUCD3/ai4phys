@@ -73,7 +73,8 @@ The way I figured out how to do this is as follows (there might be a better meth
    loading: [read\_camels.py](read_camels.py)  
    data: ``CAMELS_multifield``
 8. **Effective training and upscaling LLMs** (thanks to *Chanjun Park*)  
-   This is a special topic run by Chanjun Park.
+   This is a special topic run by Chanjun Park.  
+   [model on huggingface](https://huggingface.co/upstage/SOLAR-10.7B-v1.0)
 
 
 ## Hack groups
