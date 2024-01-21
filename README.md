@@ -11,6 +11,9 @@ Hacks Mon & Tue 10.15-16.45, optionally Wed afternoon.
 Note: Tue at [U-Tokyo DLX Design Lab](https://www.google.com/maps/place/U-Tokyo+DLX+Design+Lab+-+Kashiwa/@35.8935037,139.9432189,17z/data=!3m1!4b1!4m6!3m5!1s0x60189d08be0138ad:0x711bcecd5a9d7c9e!8m2!3d35.8934994!4d139.9457938!16s%2Fg%2F11ryljy207?entry=ttu).
 Hack summary Fri 16.15-16.45.
 
+At IPMU, we have the main lecture theatre
+as well as seminar rooms B (1F), C (3F), and 3F open space.
+
 
 ## Using the data
 
