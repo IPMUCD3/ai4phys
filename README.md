@@ -75,6 +75,9 @@ The way I figured out how to do this is as follows (there might be a better meth
 8. **Effective training and upscaling LLMs** (thanks to *Chanjun Park*)  
    This is a special topic run by Chanjun Park.  
    [model on huggingface](https://huggingface.co/upstage/SOLAR-10.7B-v1.0)
+9. **LLM applied to astro papers** (thanks to *Adam Zadrozny*)
+   Use LLM to extract knowledge from the astro literature.  
+   data & code: ``Astro_Papers/``
 
 
 ## Hack groups
@@ -95,7 +98,7 @@ suggested topics: SDSS spectra (1), Gaia (2), SIMBIG (6)
 - Li, Zhuohan      
 
 ### Group B
-suggested topics: Gaia (2), HSC images (5), SIMBIG (6)
+suggested topics: Gaia (2), HSC images (5), Astro papers LLM (9)
 - Zadrożny, Adam  
 - Golkar, Siavash 
 - Novaes, Camila  
@@ -104,7 +107,7 @@ suggested topics: Gaia (2), HSC images (5), SIMBIG (6)
 - Hehir, Thomas   
 
 ### Group C
-suggested topics: Gaia (2), HSC convergence (3), LLMS (8)
+suggested topics: Gaia (2), HSC convergence (3), LLMs (8)
 - Shirley, Ho              
 - Fromenteau, Sébastien    
 - Perez Diaz, Victor Samuel
@@ -124,7 +127,7 @@ suggested topics: Gaia (2), JWST images (4), CAMELS multifield (7)
 - Bell, Rianna         
 
 ### Group E
-suggested topics: SDSS spectra (1), HSC convergence (3), SIMBIG (6)
+suggested topics: SDSS spectra (1), HSC convergence (3), Astro papers LLM (9)
 - Vargas-Magaña, Mariana
 - Dawid, Anna            
 - Ramachandra, Nesar    
@@ -173,7 +176,7 @@ suggested topics: JWST images (4), SIMBIG (6), CAMELS multifield (7)
 - Breitman, Daniela       
 
 ### Group K
-suggested topics: HSC convergence (3), SIMBIG (6), CAMELS multifield (7)
+suggested topics: HSC convergence (3), SIMBIG (6), Astro papers LLM (9)
 - Nishizawa, Atsushi           
 - Cheung, Mark                 
 - Régaldo-Saint Blancard, Bruno
