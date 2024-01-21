@@ -196,7 +196,7 @@ suggested topics: SDSS spectra (1), JWST images (4), CAMELS multifield (7)
 - Gondhalekar, Yash Prashant
 
 ### Group N
-suggested topics: SDSS spectra (1), HSC convergence (3), JWST images (4)cd "/content/drive/MyDrive/
+suggested topics: SDSS spectra (1), HSC convergence (3), JWST images (4)
 - Zhao, Jingkun   
 - Terao, Kazuhiro 
 - Myles, Justin   
