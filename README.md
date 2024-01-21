@@ -2,6 +2,8 @@
 
 Below organization details, data access, and group splitting.
 
+Many thanks to everyone who contributed data and code for this hack!
+
 
 ## Organization
 
@@ -87,7 +89,7 @@ suggested topics: SDSS spectra (1), Gaia (2), SIMBIG (6)
 - Li, Zhuohan      
 
 ### Group B
-suggested topics: Gaia(2), SDSS spectra (1)
+suggested topics: Gaia (2), HSC images (5), SIMBIG (6)
 - Zadrożny, Adam  
 - Golkar, Siavash 
 - Novaes, Camila  
