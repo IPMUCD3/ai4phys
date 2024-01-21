@@ -12,8 +12,7 @@ Hack summary Fri 16.15-16.45.
 
 ## Using the data
 
-Data accessible in the Google drive:
-[https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8\_rVpMarRUUGYbTw](https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8_rVpMarRUUGYbTw)
+Data accessible in the [Google drive](https://drive.google.com/drive/u/1/folders/13ySEme-B8XDMYgTZ8_rVpMarRUUGYbTw).
 
 We suggest you use Google colab for the hack. 
 It is most straightforward to directly work with the above Google drive from colab,
