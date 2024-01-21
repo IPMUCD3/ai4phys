@@ -75,7 +75,7 @@ The way I figured out how to do this is as follows (there might be a better meth
 8. **Effective training and upscaling LLMs** (thanks to *Chanjun Park*)  
    This is a special topic run by Chanjun Park.  
    [model on huggingface](https://huggingface.co/upstage/SOLAR-10.7B-v1.0)
-9. **LLM applied to astro papers** (thanks to *Adam Zadrozny*)
+9. **LLM applied to astro papers** (thanks to *Adam Zadrozny*)  
    Use LLM to extract knowledge from the astro literature.  
    data & code: ``Astro_Papers/``
 
