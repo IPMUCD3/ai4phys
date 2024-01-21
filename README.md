@@ -2,7 +2,7 @@
 
 Below organization details, data access, and group splitting.
 
-Many thanks to everyone who contributed data and code for this hack!
+**Many thanks to everyone who contributed data and code for this hack!**
 
 
 ## Organization
