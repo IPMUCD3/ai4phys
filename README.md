@@ -61,14 +61,14 @@ The way I figured out how to do this is as follows (there might be a better meth
    Note that the files require [nbodykit](https://nbodykit.readthedocs.io) and [bigfile](https://github.com/rainwoodman/bigfile).  
    [Hahn et al 2023a](https://ui.adsabs.harvard.edu/abs/2023PNAS..12018810H/abstract),
    [Hahn et al 2023b](https://ui.adsabs.harvard.edu/abs/2023JCAP...04..010H/abstract)  
-   loading: [simbig\_code](simbig_code)  
+   loading: [simbig\_code/](simbig_code)  
    data: ``simbig_sample.zip``
 7. **CAMELS 2D multifield data** (thanks to *Francisco Villaescusa-Navarro*)  
    Images of 25 Mpc/h simulated boxes from the [CAMELS](https://camels.readthedocs.io) project.  
    [data website](https://camels-multifield-dataset.readthedocs.io),
    [Villaescusa-Navarro et al 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...61V/abstract)  
-   loading: TODO  
-   data: TODO  
+   loading: [read\_camels.py](read_camels.py) 
+   data: ``CAMELS_multifield``
 
 
 ## Hack groups
