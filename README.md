@@ -120,7 +120,7 @@ suggested topics: Gaia (2), JWST images (4), CAMELS multifield (7)
 ### Group E
 suggested topics: SDSS spectra (1), HSC convergence (3), SIMBIG (6)
 - Vargas-Magaña, Mariana
-- Dawi, Anna            
+- Dawid, Anna            
 - Ramachandra, Nesar    
 - Cooray, Suchetha      
 - Hidayat, Wildan       
