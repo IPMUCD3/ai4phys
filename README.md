@@ -61,7 +61,7 @@ The way I figured out how to do this is as follows (there might be a better meth
    [Hahn et al 2023b](https://ui.adsabs.harvard.edu/abs/2023JCAP...04..010H/abstract)  
    loading: [simbig\_code](simbig_code)  
    data: ``simbig_sample.zip``
-7. **CAMELS 2D multifield data** (thanks to *Francisco Villaescusa-Navarro*)
+7. **CAMELS 2D multifield data** (thanks to *Francisco Villaescusa-Navarro*)  
    Images of 25 Mpc/h simulated boxes from the [CAMELS](https://camels.readthedocs.io) project.  
    [data website](https://camels-multifield-dataset.readthedocs.io),
    [Villaescusa-Navarro et al 2022](https://ui.adsabs.harvard.edu/abs/2022ApJS..259...61V/abstract)  
